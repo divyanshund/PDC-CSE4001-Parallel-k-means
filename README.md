@@ -1,4 +1,4 @@
-# Web-mining-Parallel-k-means
+# PDC-CSE4001-Parallel-k-means
 
 INTRODUCTION
 
